@@ -1,2 +1,10 @@
-# sgd---DES-Data-Encription-Standard-
-Destinado a Desciplina de segurança de dados 5º periodod de Analise e Desenvolvimento de Sistemas do IFPB - Cajazeiras
+# DES
+
+Data Encription Standard, destinado a disciplina de Segurança de dados IFPB - Cajazeiras
+ADS 5º Periodo
+
+## Equipe
+
+### Raul Coelho
+### Romulo Pereira
+### Lucas Garrido
